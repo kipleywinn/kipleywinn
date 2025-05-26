@@ -1,5 +1,5 @@
-## Hi there ✨
-
+# Hi there ✨
+Using this space to host some personal projects as well as projects for [Rockstar Roller Derby](https://rockstarrollerderby.com), a nonprofit that I volunteer for. Entirely self-taught and learning as I go!
 
 
 <!--
